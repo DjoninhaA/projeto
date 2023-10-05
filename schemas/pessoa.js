@@ -4,19 +4,18 @@ export default {
       title: 'pessoa',
       fields: [
         {
-          name: 'nome',
+          name: 'nomeCompleto',
+          title: 'Nome Completo',
           type: 'string'
         },
         {
-          name:'sobrenome',
-          type: 'string',
-        },
-        {
           name: 'input_image',
+          title: 'Foto',
           type: 'image'
         },
         {
           name: 'cargo',
+          title: 'Cargo do Membro',
           type: 'string'
         }
       ]
