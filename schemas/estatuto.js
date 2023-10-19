@@ -1,5 +1,5 @@
 export default {
-    name: 'termos',
+    name: 'estatuto',
     type: 'document',
     title: 'estatuto',
     fields: [
