@@ -9,5 +9,7 @@ import resultados from './resultados'
 import satisfacao from './satisfacao'
 import satisfacaoEstrutura from './satisfacaoEstrutura'
 import faq from './faq'
+import pilares from './pilares'
+import estatuto from './estatuto'
 
-export const schemaTypes = [pessoa, qrcode, diretrizes, objetivo, pontosPositivos, membros, resultados, satisfacao, satisfacaoEstrutura, faq ]
+export const schemaTypes = [pessoa, qrcode, diretrizes, objetivo, pontosPositivos, membros, resultados, satisfacao, satisfacaoEstrutura, faq, estatuto, pilares ]
