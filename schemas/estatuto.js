@@ -4,31 +4,31 @@ export default {
     title: 'estatuto',
     fields: [
       {
-        name: 'tituloprincipal',
+        name: 'tituloprincipal1',
         type: 'string',
         title:'Titulo 1'
       },
       {
-        name: 'conteud1',
+        name: 'conteudo1',
         type: 'string',
         title:'Conteudo'
       },
       {
-        name: 'tituloprincipa2',
+        name: 'tituloprincipal2',
         type: 'string',
         title:'Titulo 2'
       },
       {
-        name: 'conteud2',
+        name: 'conteudo2',
         type: 'string',
         title:'Conteudo'
       }, {
-        name: 'tituloprincipa3',
+        name: 'tituloprincipal3',
         type: 'string',
         title:'Titulo 3'
       },
       {
-        name: 'conteud3',
+        name: 'conteudo3',
         type: 'string',
         title:'Conteudo'
       },
