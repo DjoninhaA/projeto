@@ -6,23 +6,31 @@ export default {
       {
         name: 'tituloprincipal',
         type: 'string',
-        title:'Titulo principal'
+        title:'Titulo 1'
       },
       {
-        name: 'titulo',
+        name: 'conteud1',
         type: 'string',
-        title:'Titulo'
+        title:'Conteudo'
       },
       {
-        name: 'topicos',
-        type: 'array',
-        of:[
-          {
-            name: 'itens',
-            type: 'string',
-            title: 'itens'
-          }
-        ]
-      }
+        name: 'tituloprincipa2',
+        type: 'string',
+        title:'Titulo 2'
+      },
+      {
+        name: 'conteud2',
+        type: 'string',
+        title:'Conteudo'
+      }, {
+        name: 'tituloprincipa3',
+        type: 'string',
+        title:'Titulo 3'
+      },
+      {
+        name: 'conteud3',
+        type: 'string',
+        title:'Conteudo'
+      },
     ]
 }

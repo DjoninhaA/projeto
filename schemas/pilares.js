@@ -1,5 +1,5 @@
 export default {
-    name: 'termos',
+    name: 'pilares',
     type: 'document',
     title: 'pilares',
     fields: [
@@ -14,10 +14,15 @@ export default {
         title:'Titulo'
       },
       {
-        name: 'descricao',
-        type: 'string',
-        title:'Descrição',
-        description: 'texto'
+        name: 'topicos',
+        type: 'array',
+        of:[
+          {
+            name: 'itens',
+            type: 'string',
+            title: 'itens'
+          }
+        ]
       }
     ]
 }
