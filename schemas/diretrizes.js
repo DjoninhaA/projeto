@@ -1,7 +1,7 @@
 export default {
     name: 'diretrizes',
     type: 'document',
-    title: 'diretrizes',
+    title: 'Diretrizes',
     fields: [
       {
         name: 'ordem',

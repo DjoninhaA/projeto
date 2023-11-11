@@ -1,7 +1,7 @@
 export default {
     name: 'qrcode',
     type: 'document',
-    title: 'qrcode',
+    title: 'Qrcode',
     fields: [
       {
         name: 'imagem',
