@@ -1,7 +1,7 @@
 export default {
       name: 'pessoa',
       type: 'document',
-      title: 'pessoa',
+      title: 'Pessoa',
       fields: [
         {
           name: 'nomeCompleto',

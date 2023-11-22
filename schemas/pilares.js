@@ -1,7 +1,7 @@
 export default {
     name: 'pilares',
     type: 'document',
-    title: 'pilares',
+    title: 'Pilares',
     fields: [
       {
         name: 'tituloprincipal',

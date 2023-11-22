@@ -1,7 +1,7 @@
 export default {
     name: 'estatuto',
     type: 'document',
-    title: 'estatuto',
+    title: 'Estatuto',
     fields: [
       {
         name: 'tituloprincipal1',
