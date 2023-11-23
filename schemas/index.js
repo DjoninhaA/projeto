@@ -10,4 +10,4 @@ import faq from './faq'
 import pilares from './pilares'
 import estatuto from './estatuto'
 
-export const schemaTypes = [pessoa, qrcode, diretrizes, objetivo, pontosPositivos, membros, resultados, satisfacao, satisfacaoEstrutura, faq, estatuto, pilares ]
+export const schemaTypes = [pessoa, qrcode, diretrizes, objetivo, pontosPositivos, membros, resultados, faq, estatuto, pilares ]
